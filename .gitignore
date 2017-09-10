@@ -1,5 +1,7 @@
 # Java
 *.class
+*.bak
+*.orig
 
 # Eclipse
 .metadata/
