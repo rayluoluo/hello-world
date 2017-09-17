@@ -9,3 +9,7 @@
 classes/
 #.classpath
 #.project
+target/
+
+# Tomcat
+Servers/
