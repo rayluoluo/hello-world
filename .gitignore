@@ -6,10 +6,10 @@
 # Eclipse
 .metadata/
 #.settings/
-classes/
 #.classpath
 #.project
-target/
+/workspace/RemoteSystemsTempFiles/
 
 # Tomcat
-Servers/
+/workspace/Servers/
+#/workspace/apache-tomcat-7.0.81/
