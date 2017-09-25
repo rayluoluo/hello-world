@@ -1,4 +1,4 @@
-package com.github.rayluoluo.snippet.s01_PrintHelloWorld;
+package com.github.rayluoluo.snippet.s01printhelloworld;
 
 public class HelloWorld {
 	public static void main(String[] paramArrayOfString) {

@@ -1,4 +1,4 @@
-package com.github.rayluoluo.snippet.s06_TestOverwrite;
+package com.github.rayluoluo.snippet.s06testoverwrite;
 
 class WheatMill extends Mill {
 	Wheat process() {

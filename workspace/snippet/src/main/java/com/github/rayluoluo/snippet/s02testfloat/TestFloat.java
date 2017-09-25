@@ -1,4 +1,4 @@
-package com.github.rayluoluo.snippet.s02_TestFloat;
+package com.github.rayluoluo.snippet.s02testfloat;
 
 public class TestFloat {
 	static private double d = 0x1.2p-3;

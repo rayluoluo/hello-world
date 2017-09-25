@@ -1,4 +1,4 @@
-package com.github.rayluoluo.snippet.s04_TestPrintf;
+package com.github.rayluoluo.snippet.s04testprintf;
 
 //格式化输出栗子:
 public class TestPrintf {

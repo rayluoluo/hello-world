@@ -1,4 +1,4 @@
-package com.github.rayluoluo.snippet.s07_TestOverload;
+package com.github.rayluoluo.snippet.s07testoverload;
 
 public class TestOverload {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.github.rayluoluo.snippet.s09_TestArray;
+package com.github.rayluoluo.snippet.s09testarray;
 
 import java.util.Arrays;
 

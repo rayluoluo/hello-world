@@ -1,4 +1,4 @@
-package com.github.rayluoluo.snippet.s05_TestInstanceof;
+package com.github.rayluoluo.snippet.s05testinstanceof;
 
 public class TestInstanceof {
 	public void distribute(Person p) {

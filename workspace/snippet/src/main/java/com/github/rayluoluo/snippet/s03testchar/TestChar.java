@@ -1,4 +1,4 @@
-package com.github.rayluoluo.snippet.s03_TestChar;
+package com.github.rayluoluo.snippet.s03testchar;
 
 public class TestChar {
 	public static void main(String[] paramArrayOfString) {

@@ -1,4 +1,4 @@
-package com.github.rayluoluo.snippet.s08_TestStatic;
+package com.github.rayluoluo.snippet.s08teststatic;
 
 import static java.lang.Math.PI;
 import static java.lang.Math.sin;
