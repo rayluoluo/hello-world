@@ -1,3 +1,5 @@
+package com.github.rayluoluo.snippet.s09_TestArray;
+
 import java.util.Arrays;
 
 public class TestArrays {

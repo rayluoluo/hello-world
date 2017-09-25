@@ -1,3 +1,0 @@
-class Graduate
-  extends Student
-{}
